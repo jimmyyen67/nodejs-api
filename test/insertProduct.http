@@ -1,0 +1,9 @@
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "name": "Brush",  
+    "quantity": 100,
+    "price": 150,
+    "image": "https://via.placeholder.com/150"
+}
